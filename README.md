@@ -1,6 +1,6 @@
 # adventures-in-farming
 
-Notes for the GrainBrain.ipynb
+Notes for the GrainBrain.ipynb https://github.com/D1RK5/adventures-in-farming/blob/main/GrainBrain.ipynb
 
 In order to use this, please log in/create a Google account, then go to https://colab.research.google.com/ and copy the file's GitHub URL to this input box:
 
